@@ -1,0 +1,14 @@
+.art {
+    border: 10px solid tomato;
+    margin: 50px;
+    box-shadow: 20px 10px 10px green;
+}
+
+.two {
+    height: 600px;
+    background-color: aquamarine;
+    background-image: url(20200816_105941.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}

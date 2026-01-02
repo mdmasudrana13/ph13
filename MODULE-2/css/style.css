@@ -1,0 +1,22 @@
+.bolog {
+    background-color: aqua;
+}
+
+h2{
+    text-decoration: dotted;
+    text-align: center;
+}
+#second{
+    background-color: chartreuse;
+    /* display: none; */
+    /* visibility: hidden; */
+}
+#bolck{
+    color: rgb(255, 0, 0);
+    border:5px solid rgb(0, 0, 0) ;
+    display:block;
+
+}
+li{
+    display: inline;
+}

@@ -1,0 +1,53 @@
+/* this is universal */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* this is id */
+.two {
+    border: 10px solid tomato;
+}
+
+/* this is id */
+.three {
+    color: chartreuse;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+
+}
+
+#id1 {
+    color: aquamarine;
+
+}
+
+.five {
+    background-image: url(971.jpg);
+    background-size:cover;
+   height:500px ;
+   width:90%;
+    background-repeat: no-repeat;
+    margin:20px ;
+
+  
+}
+.span{
+    display: block;
+    border: 5px solid thistle;
+    height: 300px;
+    width:150px ;
+}
+li{
+    display: inline;
+}
+div{
+    height:300px ;
+    width: 250px; ;
+    border:20px solid red ;
+    margin:10px ;
+    padding:20px;
+    box-shadow:50px 50px gray ;
+}
